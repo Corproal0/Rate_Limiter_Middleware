@@ -1,0 +1,3 @@
+module RATE_LIMITER_MIDDLEWARE
+
+go 1.25.1
